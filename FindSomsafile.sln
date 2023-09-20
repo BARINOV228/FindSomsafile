@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSomsafile", "FindSomsafile.csproj", "{B25D77E6-EFB5-4CF4-B3A4-8B0428DFCE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25D77E6-EFB5-4CF4-B3A4-8B0428DFCE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25D77E6-EFB5-4CF4-B3A4-8B0428DFCE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25D77E6-EFB5-4CF4-B3A4-8B0428DFCE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25D77E6-EFB5-4CF4-B3A4-8B0428DFCE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88059A9E-4E85-45CB-A37B-439EAE5EC269}
+	EndGlobalSection
+EndGlobal
